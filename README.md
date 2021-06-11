@@ -14,8 +14,8 @@ If you use this code, please cite the paper using the bibtex reference below.
 
 ## Requirements
 - Python 3.6+
-- Pytorch
-- Transformers
+- pytorch
+- transformers
 
 You can install all required Python packages with `bash requirements.sh`. 
 
